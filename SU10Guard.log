@@ -1,0 +1,141 @@
+05/29/2024, 10:20:33
+    SU10Guard Version: 4.5.2023.523
+05/29/2024, 10:20:33
+    "C:\Users\302t\Downloads\stopupdates10portable\SU10Guard.exe"
+05/29/2024, 10:20:33
+    C:\Users\302t\Downloads\stopupdates10portable\stopupdates10-settins.ini
+05/29/2024, 10:20:33
+    C:\Users\302t\Downloads\stopupdates10portable\SU10Guard.log
+05/29/2024, 10:20:33
+    Trying to start our service...
+05/29/2024, 10:20:33
+    Service started successfully!
+05/29/2024, 10:20:33
+    Started worker.
+05/29/2024, 10:20:33
+    Windows recently started. Wait for a 60-sec timeout.
+05/29/2024, 10:21:33
+    Begin the work...
+05/29/2024, 10:21:33
+    CheckProcessSeconds =5
+
+05/29/2024, 10:21:38
+    GetServiceStartRegKey finds that wuauserv is enabled
+05/29/2024, 10:21:38
+    Found an active Windows Updates service. Trying to stop...
+05/29/2024, 10:21:38
+    Starting DisableWindowsUpdates
+05/29/2024, 10:21:38
+    Executed DisableWindowsUpdates
+05/29/2024, 10:21:38
+    Service AutoRun BITS has been disabled.
+05/29/2024, 10:21:38
+    Trying to stop the service: BITS
+05/29/2024, 10:21:48
+    Trying to stop the service: BITS
+05/29/2024, 10:21:58
+    Trying to stop the service: BITS
+05/29/2024, 10:22:08
+    Trying to stop the service: BITS
+05/29/2024, 10:22:18
+    Trying to stop the service: BITS
+05/29/2024, 10:22:28
+    Trying to stop the service: BITS
+05/29/2024, 10:23:13
+    Trying to stop the service: BITS
+05/29/2024, 10:23:38
+    Trying to stop the service: BITS
+05/29/2024, 10:23:43
+    Trying to stop the service: BITS
+05/29/2024, 10:23:54
+    Trying to stop the service: BITS
+05/29/2024, 10:24:04
+    Trying to stop the service: BITS
+05/29/2024, 10:24:09
+    Trying to stop the service: BITS
+05/29/2024, 10:24:14
+    GetServiceStartRegKey finds that wuauserv is enabled
+05/29/2024, 10:24:14
+    Found an active Windows Updates service. Trying to stop...
+05/29/2024, 10:24:14
+    Starting DisableWindowsUpdates
+05/29/2024, 10:24:14
+    Executed DisableWindowsUpdates
+05/29/2024, 10:24:14
+    Service AutoRun BITS has been disabled.
+05/29/2024, 10:24:14
+    Trying to stop the service: BITS
+05/29/2024, 10:24:19
+    Service AutoRun BITS has been disabled.
+05/29/2024, 10:24:24
+    GetServiceStartRegKey finds that wuauserv is enabled
+05/29/2024, 10:24:24
+    Found an active Windows Updates service. Trying to stop...
+05/29/2024, 10:24:24
+    Starting DisableWindowsUpdates
+05/29/2024, 10:24:24
+    Executed DisableWindowsUpdates
+05/29/2024, 10:24:24
+    Trying to stop the service: BITS
+05/29/2024, 10:24:49
+    Trying to stop the service: BITS
+05/29/2024, 10:25:54
+    Trying to stop the service: BITS
+05/29/2024, 10:26:59
+    Trying to stop the service: BITS
+05/29/2024, 10:27:44
+    Trying to stop the service: BITS
+05/29/2024, 10:29:35
+    Trying to stop the service: BITS
+05/29/2024, 10:31:05
+    Trying to stop the service: BITS
+05/29/2024, 10:31:35
+    Trying to stop the service: BITS
+05/29/2024, 10:33:35
+    Trying to stop the service: BITS
+05/29/2024, 10:35:42
+    Trying to stop the service: BITS
+05/29/2024, 10:37:52
+    Trying to stop the service: BITS
+05/29/2024, 10:37:57
+    Trying to stop the service: BITS
+05/29/2024, 10:38:07
+    Trying to stop the service: BITS
+05/29/2024, 11:06:17
+    Service AutoRun BITS has been disabled.
+05/29/2024, 11:06:22
+    GetServiceStartRegKey finds that wuauserv is enabled
+05/29/2024, 11:06:22
+    Found an active Windows Updates service. Trying to stop...
+05/29/2024, 11:06:22
+    Starting DisableWindowsUpdates
+05/29/2024, 11:06:22
+    Executed DisableWindowsUpdates
+05/29/2024, 11:06:22
+    Trying to stop the service: BITS
+05/29/2024, 11:19:19
+    Trying to stop the service: BITS
+05/29/2024, 11:19:59
+    Trying to stop the service: BITS
+05/29/2024, 11:20:09
+    Trying to stop the service: BITS
+05/29/2024, 11:20:19
+    Trying to stop the service: BITS
+05/29/2024, 11:44:33
+    Trying to stop the service: BITS
+05/29/2024, 11:44:43
+    Trying to stop the service: BITS
+05/29/2024, 11:44:53
+    Trying to stop the service: BITS
+05/29/2024, 12:18:27
+    Service AutoRun BITS has been disabled.
+05/29/2024, 12:18:32
+    GetServiceStartRegKey finds that wuauserv is enabled
+05/29/2024, 12:18:32
+    Found an active Windows Updates service. Trying to stop...
+05/29/2024, 12:18:32
+    Starting DisableWindowsUpdates
+05/29/2024, 12:18:32
+    Executed DisableWindowsUpdates
+05/29/2024, 12:18:32
+    Trying to stop the service: BITS
